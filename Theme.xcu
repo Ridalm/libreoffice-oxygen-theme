@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data xmlns:oor="http://openoffice.org/2001/registry"
+                    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                    xmlns:install="http://openoffice.org/2004/installation"
+                    oor:name="UI" oor:package="org.openoffice.Office">
+  <node oor:name="ColorScheme">
+    <node oor:name="ColorSchemes">
+      <node oor:name="Oxygen" oor:op="replace">
+        <node oor:name="AccentColor"><prop oor:name="Color" oor:op="fuse"><value>3844061</value></prop></node>
+        <node oor:name="ActiveBorderColor"><prop oor:name="Color" oor:op="fuse"><value>3844061</value></prop></node>
+        <node oor:name="ActiveColor"><prop oor:name="Color" oor:op="fuse"><value>4435176</value></prop></node>
+        <node oor:name="ActiveTextColor"><prop oor:name="Color" oor:op="fuse"><value>16777215</value></prop></node>
+        <node oor:name="AppBackground"><prop oor:name="Color" oor:op="fuse"><value>3684408</value></prop></node>
+        <node oor:name="BaseColor"><prop oor:name="Color" oor:op="fuse"><value>16777215</value></prop></node>
+        <node oor:name="ButtonColor"><prop oor:name="Color" oor:op="fuse"><value>14671065</value></prop></node>
+        <node oor:name="ButtonTextColor"><prop oor:name="Color" oor:op="fuse"><value>2236190</value></prop></node>
+        <node oor:name="DisabledColor"><prop oor:name="Color" oor:op="fuse"><value>11118501</value></prop></node>
+        <node oor:name="DisabledTextColor"><prop oor:name="Color" oor:op="fuse"><value>9013383</value></prop></node>
+        <node oor:name="FaceColor"><prop oor:name="Color" oor:op="fuse"><value>14671065</value></prop></node>
+        <node oor:name="FieldColor"><prop oor:name="Color" oor:op="fuse"><value>16777215</value></prop></node>
+        <node oor:name="InactiveBorderColor"><prop oor:name="Color" oor:op="fuse"><value>10526106</value></prop></node>
+        <node oor:name="InactiveColor"><prop oor:name="Color" oor:op="fuse"><value>14342616</value></prop></node>
+        <node oor:name="InactiveTextColor"><prop oor:name="Color" oor:op="fuse"><value>9013383</value></prop></node>
+        <node oor:name="MenuBarColor"><prop oor:name="Color" oor:op="fuse"><value>14078672</value></prop></node>
+        <node oor:name="MenuBarHighlightColor"><prop oor:name="Color" oor:op="fuse"><value>4435176</value></prop></node>
+        <node oor:name="MenuBarHighlightTextColor"><prop oor:name="Color" oor:op="fuse"><value>16777215</value></prop></node>
+        <node oor:name="MenuBarTextColor"><prop oor:name="Color" oor:op="fuse"><value>2236190</value></prop></node>
+        <node oor:name="MenuBorderColor"><prop oor:name="Color" oor:op="fuse"><value>10526106</value></prop></node>
+        <node oor:name="MenuColor"><prop oor:name="Color" oor:op="fuse"><value>14078672</value></prop></node>
+        <node oor:name="MenuHighlightColor"><prop oor:name="Color" oor:op="fuse"><value>4435176</value></prop></node>
+        <node oor:name="MenuHighlightTextColor"><prop oor:name="Color" oor:op="fuse"><value>16777215</value></prop></node>
+        <node oor:name="MenuTextColor"><prop oor:name="Color" oor:op="fuse"><value>2236190</value></prop></node>
+        <node oor:name="SeparatorColor"><prop oor:name="Color" oor:op="fuse"><value>10526106</value></prop></node>
+        <node oor:name="ShadowColor"><prop oor:name="Color" oor:op="fuse"><value>3684408</value></prop></node>
+        <node oor:name="WindowColor"><prop oor:name="Color" oor:op="fuse"><value>14078672</value></prop></node>
+        <node oor:name="WindowTextColor"><prop oor:name="Color" oor:op="fuse"><value>2236190</value></prop></node>
+      </node>
+    </node>
+  </node>
+</oor:component-data>
