@@ -1,4 +1,12 @@
 <p align="center">
+  <img src="logo.png" alt="Writer">
+</p>
+
+<p align="center">
+  <img src="logo2.png" alt="Calc">
+</p>
+
+<p align="center">
   <a href="#english">English</a> | <a href="#türkçe">Türkçe</a>
 </p>
 
